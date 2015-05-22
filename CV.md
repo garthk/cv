@@ -1,6 +1,6 @@
 # Garth Kidd
 
-* Software architect and engineer
+* Software architect and engineer (front end or back end)
 * DevOps architect and engineer
 * UX and design tester
 * Consulting systems engineer

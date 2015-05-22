@@ -1,11 +1,18 @@
-I reckon you should hire me.
+## README
 
-You need more information than that, though.
+I reckon you should hire me as one of the following:
 
-You need to qualify me in or out based on what I can do and what you need.
-For that, you need a list of what I can do. If you're involved in the open
-source community, you'd also like to see some of my work. 
+* Software architect and engineer
+* DevOps architect and engineer
+* UX and design tester
+* Consulting systems engineer
+* Technical bid lead
 
-I wasn't able to open source any of my work, I'm afraid. So, I'm going to
+You need more information than that, though. Of course.
+
+To qualify me in or out, you need my [curriculum vitae](CV.md).
+
+If you're involved in the open source community, you'll also need to see 
+some of my work. As I wasn't able to open source any of it, I intend to
 gratuitously over-engineer my CV in order to give you a taste of what I
 could do for you. 

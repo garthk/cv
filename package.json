@@ -19,5 +19,14 @@
   "bugs": {
     "url": "https://github.com/garthk/cv/issues"
   },
-  "homepage": "https://github.com/garthk/cv"
+  "homepage": "https://github.com/garthk/cv",
+  "devDependencies": {
+    "babel": "^5.4.7",
+    "babel-eslint": "^3.1.7",
+    "eslint": "^0.21.2",
+    "eslint-plugin-react": "^2.3.0"
+  },
+  "dependencies": {
+    "babel-runtime": "^5.4.7"
+  }
 }

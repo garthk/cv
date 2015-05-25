@@ -34,7 +34,7 @@ I've worked in frameworks including:
 
 * [React](https://facebook.github.io/react/)
 * [Hapi](http://hapijs.com)
-* [WPF](https://msdn.microsoft.com/en-us/library/ms754130(v=vs.110).aspx)
+* [WPF](https://msdn.microsoft.com/en-us/library/ms754130%28v%3Dvs.110%29.aspx)
 * [Django](https://www.djangoproject.com)
 
 I've deployed, managed, and monitored my stacks with:
@@ -42,7 +42,7 @@ I've deployed, managed, and monitored my stacks with:
 * [Docker](https://www.docker.com) containers
 * [Puppet](https://puppetlabs.com) and [Salt](http://saltstack.com) configuration management
 * [Nagios](https://www.nagios.org) monitoring
-* [Logstash](https://www.elastic.co/products/logstash) log collection to 
+* [Logstash](https://www.elastic.co/products/logstash) log collection to
   [Elasticsearch](https://www.elastic.co/products/elasticsearch)
 * [TCollector](http://opentsdb.net/docs/build/html/user_guide/utilities/tcollector.html)
   performance data collection to [OpenTSDB](http://opentsdb.net)
